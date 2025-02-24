@@ -1,6 +1,6 @@
 ![logo](https://github.com/farzeenshahid/farzeenshahid/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Farzeen Shahid</h1>
-<h3 align="center">Undergraduate Computer Science Student | Aspiring Data Scientist </h3>
+<h3 align="center">Aspiring Data Scientist </h3>
 
 
 
