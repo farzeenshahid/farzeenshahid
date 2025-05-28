@@ -10,22 +10,10 @@
 
 - 📫 How to reach me **farzeenshahid50@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farzeen-shahid-2233a2230" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzeen shahid" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/farzeenshahid50" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="farzeen shahid" height="30" width="40" />
-</a>
-
 </p>
 
-🔭 Currently working as a Junior Data Engineer at VirtuSoft, building and optimizing PySpark-based ETL pipelines and working with SQL Server, MySQL, and PostgreSQL.  
+🔭 Currently working as a Junior BI Developer at Virtuosoft, building and optimizing PySpark-based ETL pipelines and working with SQL Server, MySQL, and PostgreSQL.  
 👯 Open to freelance gigs and contract opportunities in data engineering and cloud data projects.  
-💬 Interested in collaborating to create tutorials and share practical data engineering knowledge with the community.  
-🤘 Check out my GitHub for projects related to ETL pipelines, incremental loads, and CDC implementations.  
 
 ## 🚀 Currently Learning
 - AWS Cloud Data Engineering (AWS Cloud Practitioner in progress)    
