@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzeenshahid&label=Profile%20views&color=0e75b6&style=flat" alt="farzeenshahid" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Data Engineering**
 
-- 📫 How to reach me **farzeenshahid50@gmail.com**
-
-</p>
 
 🔭 Currently working as a Junior BI Developer at Virtuosoft, building and optimizing PySpark-based ETL pipelines and working with SQL Server, MySQL, and PostgreSQL.  
 👯 Open to freelance gigs and contract opportunities in data engineering and cloud data projects.  
