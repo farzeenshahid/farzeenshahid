@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzeenshahid&label=Profile%20views&color=0e75b6&style=flat" alt="farzeenshahid" /> </p>
 
-- 🌱 I’m currently learning **Data Science in Python**
+- 🌱 I’m currently learning **AWS Cloud Data Engineering**
 
 - 📫 How to reach me **farzeenshahid50@gmail.com**
 
